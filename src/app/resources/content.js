@@ -15,7 +15,7 @@ const newsletter = {
   title: <>Contact with {person.firstName} {person.lastName}</>,
   description: (
     <>
-      Feel free to reach out to Gaurav Singh for collaboration, questions, or just a friendly tech chat.
+      Feel free to reach out for collaboration, questions, or just a friendly tech chat.
     </>
   ),
 };
