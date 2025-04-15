@@ -1,0 +1,52 @@
+.hover {
+    transition: var(--transition-micro-medium);
+
+    &:hover {
+        transform: translateX(var(--static-space-8));
+
+        .indicator {
+            transform: rotate(0);
+        }
+    }
+}
+
+.indicator {
+    transform: rotate(-90deg);
+    left: -2rem;
+    transition: var(--transition-micro-medium);
+}
+
+.projectCard {
+  transition: var(--transition-micro-medium);
+  background: var(--surface-background);
+  
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-l);
+    
+    .projectImage {
+      transform: scale(1.02);
+    }
+  }
+}
+
+.imageContainer {
+  overflow: hidden;
+  border-radius: var(--radius-m);
+}
+
+.projectImage {
+  transition: var(--transition-micro-medium);
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.projectButton {
+  margin-top: var(--space-m);
+  align-self: flex-start;
+  
+  &:hover {
+    transform: translateX(4px);
+  }
+}
