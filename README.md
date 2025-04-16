@@ -2,7 +2,7 @@
 
 This is a personal portfolio website built with **Next.js** and **Tailwind CSS**. It showcases my projects, skills, experience, and contact information — all in a sleek, responsive design.
 
-View the [demo here](https://portfoliogs79.netlify.app/).
+View the [demo here](https://gauravsingh79.netlify.app/).
 
 ![Portfolio](public/images/cover.png)
 
