@@ -70,7 +70,7 @@ const about = {
   },
   calendar: {
     display: true,
-    link: "https://resumegscv.tiiny.site/",
+    link: "https://drive.google.com/file/d/1Ni5axJw94qytVzxx07_iJudehZPLMxg_/view?usp=sharing",
     text: "Resume"
   },
   intro: {
