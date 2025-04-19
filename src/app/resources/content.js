@@ -83,7 +83,7 @@ const about = {
     ),
   },
   work: {
-    display: true, // set to false to hide this section
+    display: false, // set to false to hide this section
     title: "Work Experience - projects",
     experiences: [
       {
