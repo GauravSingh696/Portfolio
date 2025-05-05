@@ -194,6 +194,18 @@ const work = {
   description: `Projects by ${person.name}`,
   projects: [
     {
+      title: "Crypto Tracker",
+      description: "A real-time cryptocurrency tracking application with live market data and interactive charts",
+      image: "/images/projects/project-01/proj-5.png",
+      link: "https://cryptotrackergs.netlify.app/",
+      achievements: [
+        "Built a responsive crypto tracking platform with real-time market data",
+        "Implemented interactive charts and detailed coin information",
+        "Created a modern UI with dynamic price updates and market trends",
+        "Integrated cryptocurrency APIs for accurate and up-to-date information"
+      ]
+    },
+    {
       title: "Tic Tac Toe",
       description: "A responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScript",
       image: "/images/projects/project-01/proj-1.png",
