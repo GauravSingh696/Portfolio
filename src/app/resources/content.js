@@ -341,22 +341,7 @@ const gallery = {
       orientation: "horizontal",
     },
     {
-      src: "/images/gallery/img-17.jpg",
-      alt: "image",
-      orientation: "vertical",
-    },
-    {
       src: "/images/gallery/img-18.png",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/gallery/img-19.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/gallery/img-20.jpg",
       alt: "image",
       orientation: "horizontal",
     },
